@@ -1,18 +1,212 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I'm currently working on **ASP.NET Web API and C# Projects**<br><br>👯 I'm looking to collaborate on **ASP.NET, C#, and .NET Projects**<br><br>🤝 I'm looking for help with **Advanced ASP.NET Core, Entity Framework Core, and SQL Server**<br><br>🌱 I'm currently learning **ASP.NET Core, C#, LINQ, Entity Framework Core, SQL Server, and Web API**<br><br>💬 Ask me about **C#, OOP, LINQ, ASP.NET, SQL Server, and Basic Web Development**<br><br>⚡ Fun fact: **I enjoy solving coding problems and building real-world projects while learning new technologies.**
+<!-- ============================= -->
+<!--      MARMIK KALARIYA          -->
+<!-- ============================= -->
 
+<h1 align="center">👋 Hi, I'm Marmik Kalariya</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marmik Kalariya ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Marmik Kalariya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marmikkalariya33@gmail.com) 
+<h3 align="center">
+💻 Computer Engineering Student • ASP.NET Developer • C# Enthusiast
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MarmikKalariya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MarmikKalariya33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarmikKalariya33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;ASP.NET+Developer;C%23+%7C+.NET+Developer;Always+Learning+New+Technologies;Building+Real+World+Projects" />
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MarmikKalariya33&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/MarmikKalariya33?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/MarmikKalariya33?style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MarmikKalariya33&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🖥️ Developer Dashboard
+
+```text
+┌────────────────────────────────────────────┐
+│ 👤 Name        : Marmik Kalariya           │
+│ 🎓 Education   : Computer Engineering      │
+│ 💼 Role        : ASP.NET Developer         │
+│ 🌍 Status      : Learning & Building       │
+│ 🚀 Goal        : Full Stack .NET Developer │
+└────────────────────────────────────────────┘
+```
+
+---
+
+# 🚀 Current Journey
+
+### 🔭 Currently Working On
+✔ ASP.NET Web API and C# Projects
+
+### 🌱 Currently Learning
+✔ ASP.NET Core
+
+✔ C#
+
+✔ LINQ
+
+✔ Entity Framework Core
+
+✔ SQL Server
+
+✔ Web API
+
+### 👯 Looking to Collaborate On
+✔ ASP.NET
+
+✔ C#
+
+✔ .NET Projects
+
+### 🤝 Looking for Help With
+✔ Advanced ASP.NET Core
+
+✔ Entity Framework Core
+
+✔ SQL Server
+
+### 💬 Ask Me About
+
+```
+C#
+OOP
+LINQ
+ASP.NET
+SQL Server
+Basic Web Development
+```
+
+### ⚡ Fun Fact
+
+> I enjoy solving coding problems and building real-world projects while learning new technologies.
+
+---
+
+# 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+# 📊 Skill Progress
+
+```text
+C#                   ████████████████████████ 95%
+
+ASP.NET              ██████████████████████░ 90%
+
+Web API              ████████████████████░░░ 85%
+
+Entity Framework     ███████████████████░░░░ 80%
+
+SQL Server           ████████████████████░░░ 85%
+
+LINQ                 █████████████████████░░ 90%
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=MarmikKalariya33&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MarmikKalariya33&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="97%" src="https://streak-stats.demolab.com?user=MarmikKalariya33&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarmikKalariya33&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/marmik-kalariya-19204632a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mastodon.social/@Marmik Kalariya">
+<img src="https://img.shields.io/badge/Mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="mailto:marmikkalariya33@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Professional ASP.NET Core Projects
+
+✅ Master Entity Framework Core
+
+✅ Improve Problem Solving
+
+✅ Learn Clean Architecture
+
+✅ Contribute to Open Source
+
+✅ Become a Full Stack .NET Developer
+
+---
+
+# 💡 Developer Philosophy
+
+```text
+while(!success)
+{
+    Learn();
+    Practice();
+    Build();
+    Improve();
+}
+```
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+If you like my work, don't forget to ⭐ my repositories!
+
+</h3>
